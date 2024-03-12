@@ -1,0 +1,2 @@
+March 12:
+This is demo commiter, I was able to just run the JustTextScraper which also scrapes images url. It works for images but didn't extract text.

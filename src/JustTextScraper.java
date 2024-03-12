@@ -20,7 +20,7 @@ public class JustTextScraper {
         String url = scanner.nextLine(); // Read the URL entered by the user
 
         // Specify the output file path
-        String outputFilePath = "output.txt"; // Changed to .txt for simplicity
+        String outputFilePath = "just_text.txt"; // Changed to .txt for simplicity
 
         try {
             // Fetch the HTML content from the specified URL
